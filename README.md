@@ -15,8 +15,6 @@ FUTURE
  * menu
  * animation and fx
  * levels
- * high scores
- * touch support
  * music and sound fx
 
 
